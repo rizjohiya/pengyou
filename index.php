@@ -8,5 +8,6 @@
 </head>
 <body>
 	<h1>this is simple test program</h1>
+	<p>its first git project</p>
 </body>
 </html>
